@@ -1,3 +1,3 @@
 #quản lý thư viện - Cá nhân 
-#Ngôn ngữ sử dụng C++ 
-#Sử dụng OOP - và pointer C++ 
+1. Ngôn ngữ sử dụng C++ 
+2. Sử dụng OOP - và pointer C++ 
